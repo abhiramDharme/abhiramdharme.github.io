@@ -5,11 +5,10 @@ export const PERSONAL_DETAILS = {
   tagline: "Pilot of Code | CT Side Defuser | ML Engineer",
   degree: "B.Tech & M.Tech in CS & Engineering",
   institute: "IIT Delhi",
-  gpa: "8.08",
   github: "https://www.github.com/abhiramDharme",
   codeforces: "https://codeforces.com/profile/DRYMBIIT",
-  linkedin: "#", 
-  email: "abhiram.dharme@example.com" // Placeholder
+  linkedin: "https://www.linkedin.com/in/abhiram-dharme-38012b213/", 
+  email: "abhiramdharme0201@gmail.com"
 };
 
 export const INTERNSHIPS: Internship[] = [
@@ -102,11 +101,6 @@ export const ACHIEVEMENTS: Achievement[] = [
     title: "Codeforces Expert",
     rank: "Rating: 1672",
     description: "Ranked among top 10% of coders globally on Codeforces (Handle: DRYMBIIT)."
-  },
-  {
-    title: "JEE Advanced",
-    rank: "Rank 1055",
-    description: "Secured All India Rank 1055 in one of the toughest engineering entrance exams."
   },
   {
     title: "Tower Research Capital Challenge",
